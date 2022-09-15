@@ -1,0 +1,7 @@
+Smart farming solutions work through sensors. This can monitor various conditions like soil moisture, humidity and temperature. The Arduino mega is the microcontroller which will be used in this project and interfaced with temperature & humidity sensor, soil moisture sensor, relay, motor pump.
+    The working process of the project is as follows:
+        • When the power is turned ON, moisture sensor measures the moisture level of the soil.
+        • If soil is dry or below the required moisture level, then the motor starts to run and pumps water. 
+        • The soil moisture sensor continuously evaluates the amount of water content present. 
+        • If the moisture level is optimum, i.e. the water in the soil is sufficient for the plant, and then the motor pump is turned OFF.
+        • Also the temperature sensor is used to monitor the temperature of the environment.
